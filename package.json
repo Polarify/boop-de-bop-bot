@@ -1,0 +1,14 @@
+
+{
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": "move.js",
+  "scripts": {
+    "start": "node move.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
